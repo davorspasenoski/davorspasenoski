@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Davor Spasenoski 👋
 
-<!--
-**davorspasenoski/davorspasenoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Engineering Student | Future Software Engineer
 
-Here are some ideas to get you started:
+Third-year student at the Faculty of Computer Science and Engineering (FCSE), Skopje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about programming, software development and technology.
+
+---
+
+### 👨‍💻 About Me
+
+- Studying Software Engineering and Information Systems.
+- Currently improving my programming and problem-solving skills.
+- Interested in software development and artificial intelligence.
+- Always learning and building new projects.
+
+### 🛠️ Technologies & Programming Languages
+
+- C++
+- Python
+- Java
+- Git & GitHub
+
+### 📚 University Projects
+
+- Structural Programming
+- Object-Oriented Programming
+- Artificial Intelligence
+- Algorithms and Data Structures
+
+### 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davorspasenoski&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davorspasenoski&layout=compact&theme=github_dark)
+
+---
+
+### 📫 Connect With Me
+
+- GitHub: [@davorspasenoski](https://github.com/davorspasenoski)
+
+---
+
+⭐ Thanks for visiting my profile!
