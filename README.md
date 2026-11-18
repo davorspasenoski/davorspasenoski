@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Davor Spasenoski
 
-### 🎓 Software Engineering Student | Aspiring Software Engineer
+### Software Engineering Student | Aspiring Software Engineer
 
 Third-year Software Engineering and Information Systems student at the Faculty of Computer Science and Engineering (FCSE), Skopje.
 
@@ -10,11 +10,11 @@ I enjoy programming, solving problems, learning new technologies and building so
 
 ## 🚀 About Me
 
-- 🎓 Studying Software Engineering and Information Systems at FCSE.
-- 💻 Interested in Software Development and Artificial Intelligence.
-- 🌱 Constantly learning and improving my programming skills.
-- 🧠 Focused on problem-solving and writing clean code.
-- 📍 Skopje, North Macedonia.
+- Studying Software Engineering and Information Systems at FCSE.
+- Interested in Software Development and Artificial Intelligence.
+- Constantly learning and improving my programming skills.
+- Focused on problem-solving and writing clean code.
+- Skopje, North Macedonia.
 
 ---
 
